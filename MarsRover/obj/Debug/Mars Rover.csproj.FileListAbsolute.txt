@@ -1,0 +1,3 @@
+C:\Users\marchest\Downloads\testdata\teb\MarsRover-master\HepsiBurada\obj\Debug\Mars Rover.csprojResolveAssemblyReference.cache
+C:\Users\marchest\Downloads\testdata\teb\MarsRover-master\HepsiBurada\obj\Debug\HepsiBurada.exe
+C:\Users\marchest\Downloads\testdata\teb\MarsRover-master\HepsiBurada\obj\Debug\HepsiBurada.pdb

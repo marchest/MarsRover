@@ -1,0 +1,5 @@
+C:\Users\marchest\Downloads\testdata\teb\MarsRover-master\HepsiBurada\bin\Debug\HepsiBurada.exe.config
+C:\Users\marchest\Downloads\testdata\teb\MarsRover-master\HepsiBurada\bin\Debug\HepsiBurada.exe
+C:\Users\marchest\Downloads\testdata\teb\MarsRover-master\HepsiBurada\bin\Debug\HepsiBurada.pdb
+C:\Users\marchest\Downloads\testdata\teb\MarsRover-master\HepsiBurada\obj\Debug\HepsiBurada.exe
+C:\Users\marchest\Downloads\testdata\teb\MarsRover-master\HepsiBurada\obj\Debug\HepsiBurada.pdb
